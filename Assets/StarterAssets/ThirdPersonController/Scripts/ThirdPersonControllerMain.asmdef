@@ -1,0 +1,17 @@
+{
+    "name": "ThirdPersonController",
+    "rootNamespace": "",
+    "references": [
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:d6969a24f1ac9c94e9100f73bcb1fddb"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

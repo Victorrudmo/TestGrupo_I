@@ -8,4 +8,8 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/LevelPlay/Samples/UnityLevelPlaySample/Scenes/LevelPlaySample.unity
     guid: bd1eb3e1953724de08fadd7cbbc6d358
+  - enabled: 1
+    path: Assets/Scenes/SimpleTesting.unity
+    guid: e20b916caa8df834a850c9f454c663e3
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
